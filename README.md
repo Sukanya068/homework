@@ -17,7 +17,7 @@
   ✿การระบุตัวตน
 # git commit -m "first commit"
   ✿ใช้เพื่อบันทึกความเปลี่ยนแปลงที่เกิดขึ้นสู่ local repo
-# git remote add origin https://github.com/Sukanya068/hw2.git
+# git remote add origin https://github.com/Sukanya068/homework.git
   ✿เมื่อยังไม่มี remote repo เราก็จะเพิ่มมันเข้าไป โดยใช้ url ที่ก็อปปี้ไว้เมื่อกี้
 # git remote -v
   ✿เช็คว่า local repo นี้มี remote repo รึยัง
